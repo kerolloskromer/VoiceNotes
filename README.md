@@ -1,4 +1,4 @@
-Sample android app written in kotlin demonstrating playing audio files/urls in recyclerview with smooth scrolling by maintaing all states while recyling views and releasing media player when its job is done to maintain memory.
+Sample android app written in kotlin demonstrating playing audio files/urls in RecyclerView with smooth scrolling by maintaining all states while recycling views and releasing media player when its job is done to maintain memory.
 
 ## Report Bug / Issue / Improvement
 
